@@ -14,14 +14,14 @@ body{
 
 .right{
     width:42%;
-    background-image: url(./images/hero-desktop.jpg);
+    background-image: url(hero-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .left{
     width: 58%;
-    background-image: url(./images/bg-pattern-desktop.svg);
+    background-image: url(bg-pattern-desktop.svg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -173,7 +173,7 @@ input::placeholder{
         }
         .left{
             width: 100%;
-            background-image: url(./images/bg-pattern-desktop.svg);
+            background-image: url(bg-pattern-desktop.svg);
             background-repeat: no-repeat;
             background-size: cover;
             display: flex;
@@ -183,7 +183,7 @@ input::placeholder{
             display: none;
         }
         .mobile-img{
-            background-image: url(./images/hero-mobile.jpg);
+            background-image: url(hero-mobile.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             height:20%;
